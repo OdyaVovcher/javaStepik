@@ -3,4 +3,3 @@ package figures;
 class Figure{
     
 }
-

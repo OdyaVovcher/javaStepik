@@ -1,0 +1,6 @@
+package figures;
+
+class Figure{
+    
+}
+
